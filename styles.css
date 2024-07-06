@@ -47,6 +47,20 @@ nav a:hover {
     background-color: #0056b3;
 }
 
+.nav-link {
+    display: flex;
+    align-items: center; /* Aligner verticalement le texte avec l'image */
+    text-decoration: none; /* Enlever la décoration du texte des liens */
+    margin-bottom: 5px; /* Espacement entre chaque lien, ajustable selon tes besoins */
+}
+
+.nav-logo {
+    width: 30px; /* Largeur fixe pour tous les logos */
+    height: auto; /* Hauteur automatique pour maintenir les proportions */
+    margin-right: 10px; /* Espacement entre l'image et le texte, ajustable selon tes besoins */
+}
+
+
 .container {
     padding: 2em;
 }
