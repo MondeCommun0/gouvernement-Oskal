@@ -29,28 +29,6 @@ nav a:hover {
     background-color: #0056b3;
 }
 
-a {
-    color: blue; /* Couleur du texte */
-    text-decoration: none; /* Suppression du soulignement */
-    font-weight: bold; /* Texte en gras */
- }
-
-/* Style du lien au survol */
-a:hover {
-    color: red; /* Couleur du texte au survol */
-    text-decoration: underline; /* Ajout du soulignement au survol */
- }
-
-/* Style du lien lors du clic */
-a:active {
-    color: green; /* Couleur du texte lors du clic */
-}
-
-/* Style du lien visité */
-a:visited {
-     color: purple; /* Couleur du texte après avoir visité le lien */
- }
-
 .container {
     padding: 2em;
 }
