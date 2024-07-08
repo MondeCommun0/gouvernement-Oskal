@@ -51,6 +51,14 @@ nav a:hover {
     padding: 2em;
 }
 
+.centered-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Ceci est optionnel, pour centrer verticalement */
+    text-align: center;
+}
+
 .section {
     background-color: white;
     margin-bottom: 1em;
