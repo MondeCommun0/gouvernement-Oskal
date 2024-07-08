@@ -47,16 +47,13 @@ nav a:hover {
     background-color: #0056b3;
 }
 
-.container {
-    padding: 2em;
-}
-
 .centered-container {
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh; /* Ceci est optionnel, pour centrer verticalement */
     text-align: center;
+    padding: 2em;
 }
 
 .section {
